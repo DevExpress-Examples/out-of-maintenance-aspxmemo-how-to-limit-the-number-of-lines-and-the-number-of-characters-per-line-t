@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # ASPxMemo - How to limit the number of lines and the number of characters per line
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t359681)**
+**[[Run Online]](https://codecentral.devexpress.com/t359681/)**
 <!-- run online end -->
 
 
